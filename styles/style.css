@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Bai+Jamjuree&family=Rubik&display=swap');
+
+body{
+  background-image: url('https://miro.medium.com/max/1575/0*JI6nd585CjCXGmXi.jpg');
+}
+
+
+
+.card-header{
+  font-family: Rubik;
+  color: green;
+  font-size: xx-large;
+  border-bottom: 5px solid green;
+}
+
+h1, label, p {
+  background-color: #fff;
+}
+body{
+ font-family: Rubik;
+ color: green;
+}
+h4{
+  font-family: Bai Jamjuree;
+  color: blueviolet;
+  font-weight: bold;
+}
+
+h5{
+  font-family: Bai Jamjuree;
+  color: blueviolet;
+  text-decoration: underline;
+}
