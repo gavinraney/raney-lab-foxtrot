@@ -40,3 +40,11 @@ h5{
   color: blueviolet;
   text-decoration: underline;
 }
+
+.maintxt {
+  position: relative;
+}
+
+.maintxt > img, .overlay-text {
+  position: absolute;
+}
