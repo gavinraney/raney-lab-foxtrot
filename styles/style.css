@@ -23,6 +23,8 @@ h1, label, p, .card, .footer, .container, .card-body {
 }
 
 .container{
+  border: 2px solid purple;
+  border-radius: 5px;
   margin: 25px;
   padding: 10px;
 }
