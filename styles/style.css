@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Bai+Jamjuree&family=Rubik&display=swap');
 
 body{
-  margin: 25px
+  margin: 25px;
   background-image: url('https://miro.medium.com/max/1575/0*JI6nd585CjCXGmXi.jpg');
   padding: 10px;
   font-family: Rubik;
@@ -9,7 +9,7 @@ body{
 }
 
 .card-header{
-  margin: 25px
+  margin: 25px;
   padding: 10px;
   font-family: Rubik;
   color: green;
@@ -18,12 +18,12 @@ body{
 }
 
 h1, label, p, .card, .footer, .container, .card-body {
-  margin: 25px
+  margin: 25px;
   background-color: #fff;
 }
 
 .container{
-  margin: 25px
+  margin: 25px;
   padding: 10px;
 }
 
