@@ -18,13 +18,13 @@ body{
 }
 
 h1, label, p, .card, .footer, .container, .card-body {
+  border: 2px solid purple;
+  border-radius: 5px;
   margin: 25px;
   background-color: #fff;
 }
 
 .container{
-  border: 2px solid purple;
-  border-radius: 5px;
   margin: 25px;
   padding: 10px;
 }
