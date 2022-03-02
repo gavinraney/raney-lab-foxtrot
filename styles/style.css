@@ -13,7 +13,7 @@ body{
   border-bottom: 5px solid green;
 }
 
-h1, label, p, .card, .footer, .container {
+h1, label, p, .card, .footer, .container, .card-body {
   background-color: #fff;
 }
 body{
