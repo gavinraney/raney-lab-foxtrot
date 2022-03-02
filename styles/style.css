@@ -9,6 +9,7 @@ body{
 }
 
 .card-header{
+  margin: 25px
   padding: 10px;
   font-family: Rubik;
   color: green;
@@ -21,6 +22,7 @@ h1, label, p, .card, .footer, .container, .card-body {
 }
 
 .container{
+  margin: 25px
   padding: 10px;
 }
 
