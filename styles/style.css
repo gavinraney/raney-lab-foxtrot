@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Bai+Jamjuree&family=Rubik&display=swap');
 
 body{
+  margin: 25px
   background-image: url('https://miro.medium.com/max/1575/0*JI6nd585CjCXGmXi.jpg');
   padding: 10px;
   font-family: Rubik;
