@@ -17,13 +17,17 @@ body{
   border-bottom: 5px solid green;
 }
 
-h1, label, p, .card, .footer, .container, .card-body {
+h1, label, .card, .footer, .container, .card-body {
   border: 2px solid purple;
   border-radius: 5px;
   margin: 25px;
   background-color: #fff;
 }
 
+p{
+  margin: 25px;
+  background-color: #fff;
+}
 .container{
   margin: 25px;
   padding: 10px;
