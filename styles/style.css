@@ -2,11 +2,13 @@
 
 body{
   background-image: url('https://miro.medium.com/max/1575/0*JI6nd585CjCXGmXi.jpg');
+  padding: 10px;
+  font-family: Rubik;
+  color: green;
 }
 
-
-
 .card-header{
+  padding: 10px;
   font-family: Rubik;
   color: green;
   font-size: xx-large;
@@ -16,11 +18,11 @@ body{
 h1, label, p, .card, .footer, .container, .card-body {
   background-color: #fff;
 }
-body{
- font-family: Rubik;
- color: green;
- background-color: #fff;
+
+.container{
+  padding: 10px;
 }
+
 h4{
   font-family: Bai Jamjuree;
   color: blueviolet;
